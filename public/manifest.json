@@ -1,0 +1,10 @@
+{
+  "name": "BroadcastHub",
+  "short_name": "BHub",
+  "id": "com.broadcasthub.app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07133A",
+  "theme_color": "#6C63FF",
+  "description": "BroadcastHub is a secure group messaging and broadcasting platform."
+}
